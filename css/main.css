@@ -34,7 +34,8 @@ body, html {
   left: 21vw;
   background: #7dc01c;
   transform: skew(-60deg);
-  padding: 26px 30px 26px 30px;
+  padding-left: 50px;
+  padding-right: 50px;
   /* 5px 20px 5px 20px; */
 }
 .navbar-nav li{
